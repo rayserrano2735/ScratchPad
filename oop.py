@@ -1,3 +1,4 @@
+# Car class
 class Car:
     def __init__(self , color, make, mileage):
         self.color = color
